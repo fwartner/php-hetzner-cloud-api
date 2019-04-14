@@ -19,7 +19,7 @@
         "php-http/client-common": "^1.6",
         "php-http/client-implementation": "^1.0",
         "php-http/discovery": "^1.2",
-        "php-http/httplug": "^1.1",
+        "php-http/httplug": "^2.0",
         "php-http/multipart-stream-builder": "^1.0",
         "symfony/options-resolver": "^4.0"
     },
